@@ -1,0 +1,4 @@
+//studentmanagement class is the entry
+used studentdb as the database model
+used studentservice to do the backend operation and logics and code
+used studentmanagementcontroller to control the restful crud operations entry
